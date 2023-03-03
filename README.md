@@ -1,12 +1,16 @@
-# Development Guide
+# This is a demo project for hackathon.
 
-## Start local Stacks 
+PokeVote is a proof-of-concept application that combines web3 technology with WebXR. Users can cast their votes for their favorite Pokemon using PokeVote's voting system, which is operated by a smart contract built with Stacks.
+
+## Development Guide
+
+### Start local Stacks 
 
 1. Install Docker if not already done so
 
 2. `> cd contracts && clarinet integrate`
 
-## Start frontend
+### Start frontend
 
 1. create .env (refer to .env.example)
 
